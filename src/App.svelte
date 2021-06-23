@@ -1,6 +1,7 @@
 <script>
 	let string= "Hello,";
 	let my="SUDHARSAN";
+	let para="A young, active, talented with a passion for tailored solutions seeks the position to work in a thriving, exciting, and a challenging part of a reputed organization, where I can contribute and enhance my knowledge through continuous learning and teamwork";
 </script>
 
 <div class="header">
@@ -14,11 +15,7 @@
 <div class="container">
 	<div class="right-content">
 		<h2>ABOUT ME</h2>
-		<p>A young, active, talented with a passion for tailored 
-			solutions seeks the position to work in a thriving, exciting, 
-			and a challenging part of a reputed organization, where I can contribute 
-			and enhance my knowledge through continuous learning and teamwork.
-		</p>
+		<p>{para}</p>
 	</div>
 </div>
 
